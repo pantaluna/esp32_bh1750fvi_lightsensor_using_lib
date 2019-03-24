@@ -31,7 +31,7 @@ git rev-parse HEAD
 git status
 ```
 
-SOP Upload source updates to GitHub
+***NOTUSEDYET*** SOP Upload source updates to GitHub
 -----------------------------------
 ```
 DIR_REPO_NAME=esp32_bh1750fvi_lightsensor_using_lib
